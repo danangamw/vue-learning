@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 10000,
+    "year": 2015,
+    "contact": {
+      "dealer": "Danang",
+      "number": "123-415-112"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 215000,
+    "year": 2018,
+    "contact": {
+      "dealer": "Ari",
+      "number": "111-111-111"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 10000,
+    "year": 2013,
+    "contact": {
+      "dealer": "Murti",
+      "number": "111-144-444"
+    }
+  },
+  {
+    "id": 4,
+    "name": "BMW M3",
+    "price": 150000,
+    "year": 2023,
+    "contact": {
+      "dealer": "Rani",
+      "number": "111-231-111"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nissan GTR",
+    "price": 225000,
+    "year": 2011,
+    "contact": {
+      "dealer": "Puput",
+      "number": "555-123-231"
+    }
+  }
+]
